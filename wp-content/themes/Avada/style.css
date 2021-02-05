@@ -16,3 +16,8 @@ Text Domain: Avada
 .gallery-caption,
 .bypostauthor {
 }
+
+body{
+	
+	border:1px solid red;
+}
